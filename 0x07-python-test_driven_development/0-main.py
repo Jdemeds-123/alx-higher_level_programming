@@ -27,6 +27,4 @@ try:
 except Exception as e:
 
     print(e)
-
-clear
-[A[A[A[Aclear
+    
